@@ -1,0 +1,11 @@
+gender,height_min,height_max,weight_min,weight_max,size
+male,160,165,50,60,S
+male,165,170,60,70,M
+male,170,175,70,80,L
+male,175,180,80,90,XL
+male,180,185,90,100,XXL
+female,150,155,40,50,S
+female,155,160,50,60,M
+female,160,165,60,70,L
+female,165,170,70,80,XL
+female,170,175,80,99,XXL
