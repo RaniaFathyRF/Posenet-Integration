@@ -83,6 +83,23 @@ Once the server is running, open your web browser and go to:
 http://127.0.0.1:8000
 ```
 
+## Demo
+
+Explore the Posenet demo to see the model in action! The demo showcases real-time pose estimation using a webcam.
+
+### Live Demo
+You can try out the demo here: [Posenet Demo](https://posenet-demo.kesug.com/)
+
+### Features
+- **Real-time Pose Estimation**: Detects and tracks human poses in real-time.
+- **User-Friendly Interface**: Simple and intuitive design for easy interaction.
+- **Cross-Platform Compatibility**: Works on various devices with a web browser.
+
+### Instructions
+1. Click on the link above to open the demo.
+2. Allow camera access when prompted.
+3. Move around to see the pose estimation in action!
+
 ## Project Structure
 
 -   **PoseDetection.js**: This file initializes and uses the PoseNet model for real-time body pose detection through the webcam. It processes the pose data continuously as users move in front of the camera.
@@ -99,5 +116,4 @@ This application integrates several key libraries and frameworks:
 -   **[PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)**, a lightweight and efficient model for pose detection.
 -   **[body-measure](https://github.com/AI-Machine-Vision-Lab/body-measure)**, a repository that provides body measurement functionalities integrated into the app.
 
-These tools and frameworks enabled the development of Sizely App and contributed significantly to its capabilities in real-time pose detection and analysis.
-# poseNet-demo
+These tools and frameworks enabled the development of Pose Detection App and contributed significantly to its capabilities in real-time pose detection and analysis.
